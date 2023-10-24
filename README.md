@@ -9,4 +9,4 @@ Lee Clarke
 
 Question:
 
-HJas COVID-19 Affected Freight & Passenger Flight Travel Habits?
+Has COVID-19 Affected Freight & Passenger Flight Travel Habits?
