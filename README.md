@@ -2,10 +2,10 @@
 
 Members:
 
-Nathan Kelly
-Brandon Kelly
-Jason O'Connor
-Lee Clarke
+Nathan Kelly |
+Brandon Kelly |
+Jason O'Connor |
+Lee Clarke 
 
 Question:
 
