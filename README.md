@@ -1,7 +1,7 @@
 # DataAnalysisProject
 
 Members:
-========
+---------
 Nathan Kelly |
 Brandon Kelly |
 Jason O'Connor |
