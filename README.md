@@ -9,7 +9,7 @@ Lee Clarke
 
 Question:
 
-Has COVID-19 Affected Freight & Passenger Flight Travel Habits?
+Did COVID-19 Affect Public Transport Numbers in Dublin between 2018 - 2021?
+
 datasets
-https://data.gov.ie/dataset/taa06-passengers-freight-and-commercial-flights
-https://data.gov.ie/dataset/tam07-passengers-freight-and-commercial-flights
+
